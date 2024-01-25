@@ -1,5 +1,3 @@
-# Cosmic Studio
-
 ![Cosmic Studio Logo](https://github.com/CosmicStudioSoftware/.github/blob/main/images/Cosmic-Studio-Logo-RGB.png)
 
 ## **Science as Art**
